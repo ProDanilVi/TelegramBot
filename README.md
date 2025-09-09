@@ -83,5 +83,3 @@ TelegramBot/
    git push origin feature/my-feature
    ```
 5. Создайте Pull Request
-
-```
